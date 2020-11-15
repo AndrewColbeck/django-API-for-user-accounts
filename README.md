@@ -19,5 +19,9 @@ server address: `http://127.0.0.1:8000/`
 - Quit Server `Ctrl+C`
 - Deactivate virtual environment: `deactivate`
 
+### Screenshot
+![Screenshot of GUI with user accounts](https://gdurl.com/uiXc6)
+
+
 #### Tutorial link:
 https://www.django-rest-framework.org/tutorial/quickstart/
